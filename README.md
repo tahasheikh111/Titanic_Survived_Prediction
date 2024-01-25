@@ -50,4 +50,4 @@ Your task is to train a predictive model using the information provided in `trai
 3. Format your predictions as a CSV file with columns 'PassengerId' and 'Survived'.
 
 
-## Good luck, and may the best model win!
+## Good luck!
